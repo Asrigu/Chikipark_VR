@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 10245
+  controlID: 105
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -60,8 +60,8 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -101, y: -26}
-      snapCorner: 3
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
       id: Tool Settings
       index: 0
       layout: 1
@@ -70,9 +70,9 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -141, y: 149}
+      snapOffset: {x: 0, y: 149}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 1
+      snapCorner: 0
       id: unity-grid-and-snap-toolbar
       index: 1
       layout: 1
@@ -125,9 +125,9 @@ MonoBehaviour:
       floating: 1
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -111, y: 24}
+      snapOffset: {x: 0, y: 24}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 1
+      snapCorner: 0
       id: Orientation
       index: 0
       layout: 4
@@ -284,9 +284,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.2134793, y: 3.0875685, z: 0.79572403}
+    m_Target: {x: -7.619934, y: -3.5252323, z: 6.8367696}
     speed: 2
-    m_Value: {x: -3.2134793, y: 3.0875685, z: 0.79572403}
+    m_Value: {x: -7.619934, y: -3.5252323, z: 6.8367696}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -333,13 +333,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.054480053, y: 0.22099845, z: -0.011993982, w: -0.9737262}
+    m_Target: {x: -0.31318343, y: 0.55016226, z: -0.23272845, w: -0.73837936}
     speed: 2
-    m_Value: {x: -0.054495398, y: 0.2195272, z: -0.011911683, w: -0.9740104}
+    m_Value: {x: -0.31642804, y: 0.5461022, z: -0.23294148, w: -0.7398539}
   m_Size:
-    m_Target: 0.6661776
+    m_Target: 3.0091705
     speed: 2
-    m_Value: 0.6374905
+    m_Value: 3.0091705
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -388,7 +388,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 10246
+  controlID: 106
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -413,7 +413,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 10247
+  controlID: 107
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -471,10 +471,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 2031}
-      m_SelectedIDs: 12acfcff98b1fcff24c1fcff
-      m_LastClickedID: -218094
-      m_ExpandedIDs: 2226ffff4627ffff8227ffff8628ffff9a28ffffb628ffffd228ffff8629ffff8a29fffff8dbfffffcdcffff00deffffa6f6ffff56730000a8730000b673000018740000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 5a780000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 12f8ffff2ef8ffff28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -687,22 +687,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models/ZonaJuegos/Interactuables/SacoBoxeo_Bola
+    - Assets/Models/ZonaComida/Inter
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models/ZonaJuegos/Interactuables/SacoBoxeo_Bola
+  - Assets/Models/ZonaComida/Inter
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\angel\OneDrive\Escritorio\Chikipark_VR
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fa830000
-    m_LastClickedID: 33786
-    m_ExpandedIDs: 00000000d07a00006a7c00008e7c0000947c000000ca9a3b
+    m_SelectedIDs: b2770000
+    m_LastClickedID: 30642
+    m_ExpandedIDs: 0000000010760000a0770000ae770000b2770000b477000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -730,7 +730,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d07a000000ca9a3b
+    m_ExpandedIDs: 0000000010760000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -755,9 +755,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 12acfcff98b1fcff24c1fcff
-    m_LastClickedInstanceID: -218094
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 5a780000
+    m_LastClickedInstanceID: 30810
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009c7c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
