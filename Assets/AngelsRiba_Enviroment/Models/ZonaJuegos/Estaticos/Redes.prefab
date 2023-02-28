@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5301578490391056701}
   - component: {fileID: 4049766886390465656}
   - component: {fileID: 6136428267357975424}
+  - component: {fileID: 7033234628910500567}
   m_Layer: 0
   m_Name: Redes_5
   m_TagString: Untagged
@@ -83,6 +84,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7033234628910500567
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1960556309287663503}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 9.03, y: 4.199964, z: 0.02}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3458099651263726045
 GameObject:
   m_ObjectHideFlags: 0
@@ -94,6 +108,7 @@ GameObject:
   - component: {fileID: 1505277462070240382}
   - component: {fileID: 3384536754975570552}
   - component: {fileID: 4229321999270906223}
+  - component: {fileID: 4716434852328314755}
   m_Layer: 0
   m_Name: Redes_1
   m_TagString: Untagged
@@ -166,6 +181,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4716434852328314755
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3458099651263726045}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.02, y: 4.1999817, z: 6.0744762}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3830492672597716223
 GameObject:
   m_ObjectHideFlags: 0
@@ -175,7 +203,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1399235423853608692}
-  - component: {fileID: 3883367554538837530}
+  - component: {fileID: 6233647645656441446}
   m_Layer: 0
   m_Name: Redes
   m_TagString: Untagged
@@ -205,8 +233,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &3883367554538837530
-MeshCollider:
+--- !u!136 &6233647645656441446
+CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -215,10 +243,10 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
+  m_Radius: 0.5
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3978381184844868560
 GameObject:
   m_ObjectHideFlags: 0
@@ -230,6 +258,7 @@ GameObject:
   - component: {fileID: 6691469908557980273}
   - component: {fileID: 4736334843119466688}
   - component: {fileID: 3684313073103624469}
+  - component: {fileID: 8437445817828992474}
   m_Layer: 0
   m_Name: Redes_9
   m_TagString: Untagged
@@ -302,6 +331,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8437445817828992474
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3978381184844868560}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6636115831158783588, guid: 2c58693e0deaa3b449dcd09058738662, type: 3}
 --- !u!1 &4623492878004431605
 GameObject:
   m_ObjectHideFlags: 0
@@ -313,6 +356,7 @@ GameObject:
   - component: {fileID: 8508846977342432559}
   - component: {fileID: 7262531706539721718}
   - component: {fileID: 7840082222576742971}
+  - component: {fileID: 2319763736446450086}
   m_Layer: 0
   m_Name: Redes_2
   m_TagString: Untagged
@@ -385,6 +429,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &2319763736446450086
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4623492878004431605}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.010001224, y: 0.009999913, z: 0.0100000035}
+  m_Center: {x: -0.000000029802322, y: 9.313226e-10, z: 0}
 --- !u!1 &6521403413231527042
 GameObject:
   m_ObjectHideFlags: 0
@@ -396,6 +453,7 @@ GameObject:
   - component: {fileID: 2973635047801708356}
   - component: {fileID: 1598252652962961193}
   - component: {fileID: 6217483312808944733}
+  - component: {fileID: 832345206521862544}
   m_Layer: 0
   m_Name: Redes_6
   m_TagString: Untagged
@@ -468,6 +526,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &832345206521862544
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521403413231527042}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.020002441, y: 2.1999815, z: 3.0400002}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &7752082842494405885
 GameObject:
   m_ObjectHideFlags: 0
@@ -479,6 +550,7 @@ GameObject:
   - component: {fileID: 1099821635939562424}
   - component: {fileID: 7267128549036506394}
   - component: {fileID: 1264627191737308033}
+  - component: {fileID: 7995675195266488980}
   m_Layer: 0
   m_Name: Redes_4
   m_TagString: Untagged
@@ -551,6 +623,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7995675195266488980
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7752082842494405885}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -460774639803302997, guid: 2c58693e0deaa3b449dcd09058738662, type: 3}
 --- !u!1 &9140825343250625235
 GameObject:
   m_ObjectHideFlags: 0
@@ -562,6 +648,7 @@ GameObject:
   - component: {fileID: 1909140516424230539}
   - component: {fileID: 2492241046216671765}
   - component: {fileID: 739454478556233100}
+  - component: {fileID: 7780760856123544739}
   m_Layer: 0
   m_Name: RedesLimite
   m_TagString: Untagged
@@ -635,3 +722,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7780760856123544739
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9140825343250625235}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3882803716437396049, guid: 2c58693e0deaa3b449dcd09058738662, type: 3}
