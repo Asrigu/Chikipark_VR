@@ -30,6 +30,6 @@ public class HandController : MonoBehaviour
         trigger = triggerInput.action.ReadValue<float>();
 
         _animator.SetFloat("Grip", grip);
-        _animator.SetFloat("trigger", trigger);
+        _animator.SetFloat("Trigger", trigger);
     }
 }

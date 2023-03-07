@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dffb59ce85164f341a7beabf7bd01776
+guid: 26e4d7698de715d448d3f3183d36065b
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -89,7 +89,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     globalScale: 1
-    rootMotionBoneName: 
+    rootMotionBoneName: Crust_Root_JNT
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
@@ -97,7 +97,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0

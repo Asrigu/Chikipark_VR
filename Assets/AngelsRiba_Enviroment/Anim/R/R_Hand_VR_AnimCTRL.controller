@@ -18,7 +18,7 @@ BlendTree:
     m_DirectBlendParameter: Grip
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 3060872287085348379, guid: cb859ec1f64f8c24ebbe8b3fbfe78d4e,
+    m_Motion: {fileID: 9067093048684652814, guid: cb859ec1f64f8c24ebbe8b3fbfe78d4e,
       type: 3}
     m_Threshold: 0.33333334
     m_Position: {x: 1, y: 1}
@@ -27,7 +27,7 @@ BlendTree:
     m_DirectBlendParameter: Grip
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: -998496362607748373, guid: cb859ec1f64f8c24ebbe8b3fbfe78d4e,
+    m_Motion: {fileID: -8481709605947105597, guid: cb859ec1f64f8c24ebbe8b3fbfe78d4e,
       type: 3}
     m_Threshold: 0.6666667
     m_Position: {x: 0, y: 1}
@@ -36,7 +36,7 @@ BlendTree:
     m_DirectBlendParameter: Grip
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 6641085478485924818, guid: cb859ec1f64f8c24ebbe8b3fbfe78d4e,
+    m_Motion: {fileID: 1178167638873134046, guid: cb859ec1f64f8c24ebbe8b3fbfe78d4e,
       type: 3}
     m_Threshold: 1
     m_Position: {x: 1, y: 0}
@@ -113,13 +113,13 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Trigger
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
