@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 125
+  controlID: 128
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 126
+  controlID: 129
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 115
+  controlID: 130
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 116
+  controlID: 131
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -546,10 +546,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 123}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8cadfaffdacdfaff8ee3faffb0e3faff2ebafeff54f9feffeeafffffeedbffff80dcffff50deffffe2deffffb8e8ffffe0e8ffffe4e8ffff78e9ffff82e9ffff86e9ffff30f0ffff
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -832,9 +832,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.4717464, y: -1.5445937, z: -3.7966678}
+    m_Target: {x: -0.7620873, y: 0.09858084, z: -7.232134}
     speed: 2
-    m_Value: {x: 2.4717464, y: -1.5445937, z: -3.7966678}
+    m_Value: {x: -0.7620873, y: 0.09858084, z: -7.232134}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -881,13 +881,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.20151131, y: 0.77355963, z: -0.29914358, w: 0.5210791}
+    m_Target: {x: 0.37939468, y: -0.4629844, z: 0.22881874, w: 0.7677012}
     speed: 2
-    m_Value: {x: 0.20151013, y: 0.7735551, z: -0.29914182, w: 0.5210761}
+    m_Value: {x: 0.37870312, y: -0.46528125, z: 0.22995384, w: 0.76630193}
   m_Size:
-    m_Target: 2.057725
+    m_Target: 0.68274856
     speed: 2
-    m_Value: 2.057725
+    m_Value: 0.68274856
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -954,22 +954,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AngelsRiba_Enviroment/Models/ZonaComida/Inter/Pizza
+    - Assets/AngelsRiba_Enviroment/Models/ZonaComida/Inter/Vaso
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/AngelsRiba_Enviroment/Models/ZonaComida/Inter/Pizza
+  - Assets/AngelsRiba_Enviroment/Models/ZonaComida/Inter/Vaso
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\a.riba\Desktop\Chikipark_VR
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 69}
-    m_SelectedIDs: f2850000
-    m_LastClickedID: 34290
-    m_ExpandedIDs: 00000000d2850000d8850000e4850000e6850000e8850000ea850000fa850000c4ee000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 00850000
+    m_LastClickedID: 34048
+    m_ExpandedIDs: 00000000dc840000e2840000e6840000ee840000f0840000f2840000fe8400000085000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -997,7 +997,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d2850000
+    m_ExpandedIDs: 00000000dc840000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
