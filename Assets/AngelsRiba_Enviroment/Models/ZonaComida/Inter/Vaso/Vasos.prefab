@@ -112,6 +112,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8a286ee51efa90146a42476a771ebb8e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &7667746984846921529 stripped
@@ -187,6 +192,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e383e5b4ab5df564fb43e320a59ab981, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &8786894539332511973 stripped
@@ -262,6 +272,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e383e5b4ab5df564fb43e320a59ab981, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &5077748146229590872 stripped
@@ -337,6 +352,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06c36c3c8be373146abca6af638e02a9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &4802989275037965683 stripped
@@ -487,6 +507,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f194ca3feb340a4dafb784073bddce8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &6898213173188368346 stripped
@@ -637,6 +662,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8a286ee51efa90146a42476a771ebb8e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &2366332589437750993 stripped
@@ -712,6 +742,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06c36c3c8be373146abca6af638e02a9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &3031646116797107072 stripped
@@ -787,6 +822,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06c36c3c8be373146abca6af638e02a9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &3559157933412590257 stripped
@@ -862,6 +902,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8a286ee51efa90146a42476a771ebb8e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &524665429609746571 stripped
@@ -937,6 +982,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f194ca3feb340a4dafb784073bddce8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &1268968498346964305 stripped
@@ -1012,6 +1062,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f194ca3feb340a4dafb784073bddce8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &2205597565547393762 stripped
@@ -1087,6 +1142,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vaso
       objectReference: {fileID: 0}
+    - target: {fileID: 8376137495223734447, guid: 5002669777d093b4d99e27f878b7f5cf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e383e5b4ab5df564fb43e320a59ab981, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5002669777d093b4d99e27f878b7f5cf, type: 3}
 --- !u!4 &1892942989700496358 stripped

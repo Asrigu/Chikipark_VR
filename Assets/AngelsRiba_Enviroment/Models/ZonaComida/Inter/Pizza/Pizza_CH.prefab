@@ -1307,10 +1307,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractionManager: {fileID: 0}
   m_Colliders:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8422805591522275851}
+  - {fileID: 7128039506169294506}
+  - {fileID: 2294167619643346789}
+  - {fileID: 2999336826338812095}
   m_InteractionLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
