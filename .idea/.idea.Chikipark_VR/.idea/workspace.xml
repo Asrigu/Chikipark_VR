@@ -17,7 +17,8 @@
     "Discover.Launch.Via.Unity": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -61,12 +62,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="9db62395-388a-4ea0-b7ba-b1eedfca453a" name="Changes" comment="" />
       <created>1678185786082</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678185786082</updated>
       <workItem from="1678185798231" duration="132000" />
       <workItem from="1678205841781" duration="12000" />
+      <workItem from="1679331341168" duration="13000" />
     </task>
     <servers />
   </component>
