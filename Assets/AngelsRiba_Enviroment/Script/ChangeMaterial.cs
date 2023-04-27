@@ -25,7 +25,7 @@ public class ChangeMaterial : MonoBehaviour
     //Cambiar el material de manera mas optima
     public void CambiarMaterial(Material matarialACambiar)
     {
-        _meshRenderer.material = materialACambiar;
+        _meshRenderer.material = otherMaterial;
     }
 
     //Cambiar de material de manera menos optima pero mas visual
