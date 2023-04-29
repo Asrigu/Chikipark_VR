@@ -3,7 +3,11 @@ guid: 03d9b8890d6c8474fb70e8eb84e595f0
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - ppPizza: {fileID: 1438587888429604360, guid: bcb7bcdbd8e7af8478a2dbc4e6e589ef,
+      type: 3}
+  - chPizza: {fileID: 2277481246703818943, guid: cdb3d8cae0d65ac41ba42b3d8b141bea,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

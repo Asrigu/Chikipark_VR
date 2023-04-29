@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
+using UnityEditor.SceneManagement;
 using UnityEngine;
 
 public class MenuUIpizza : MonoBehaviour
 {
-    // Start is called before the first frame update
 
     [SerializeField] private GameObject ppPizza;
     [SerializeField] private GameObject chPizza;
@@ -13,11 +14,22 @@ public class MenuUIpizza : MonoBehaviour
 
     public void SpawnPP()
     {
-        
+        DestroyPizza();
+       // foreach (GameObject item in spawnedPizzas)
+      //  {
+           // GameObject pizza = Instantiate(ppPizza, item.transform);
+            spawnedPizzas.Add(ppPizza);
+       // }
     }
 
     public void SpawnCH()
     {
+        DestroyPizza();
+       // foreach (GameObject item in spawnedPizzas)
+       // {
+           // GameObject pizza = Instantiate(chPizza, item.transform);
+            spawnedPizzas.Add(chPizza);
+       // }
         
     }
 
